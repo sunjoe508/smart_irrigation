@@ -1,10 +1,8 @@
-Here's a more detailed and structured version in code block format (Markdown) that you can directly copy into your `README.md` file:
+
 
 ```markdown
 # 🌿💧 SmartFarm Pro: Next-Gen Automated Irrigation System 🚜🤖
 
-<!-- Banner Image Placeholder -->
-<!-- ![SmartFarm Pro Banner](https://via.placeholder.com/1200x400/2ecc71/ffffff?text=SmartFarm+Pro+Automated+Irrigation) -->
 
 ## 📖 Table of Contents
 1. [Project Overview](#-project-overview)
@@ -139,12 +137,3 @@ MIT © 2024 SmartFarm Pro Team
 - Dark/light mode compatibility
 ```
 
-This version includes:
-1. Technical depth with code snippets and architecture diagrams
-2. Comprehensive feature breakdown
-3. Future roadmap with concrete milestones
-4. Proper Markdown formatting for GitHub rendering
-5. Placeholders for visual elements
-6. Structured contribution guidelines
-
-Would you like me to add any specific technical details or modify any section further?
